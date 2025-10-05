@@ -1,1 +1,2 @@
 test test 3
+added in local repo of git_test3 folder
